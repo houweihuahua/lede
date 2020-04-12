@@ -40,5 +40,5 @@ jobs:
     - name: Push Commits
       uses: ad-m/github-push-action@master
       with:
-        github_token: 23c6701ce759eea88ef420e545a1c1c764fb9775
+        github_token: 7a899a29be0eae3c340e2fe4cff124daef8612bc
         
